@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "author": "沈启明 <9359004+shen-qiming@user.noreply.gitee.com>",
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build",
+    "postinstall": "umi setup",
+    "setup": "umi setup",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.0.1",
+    "@ant-design/pro-components": "^2.4.14",
+    "@ant-design/pro-provider": "^2.8.6",
+    "antd": "^5.4.7",
+    "umi": "^4.0.68"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.33",
+    "@types/react-dom": "^18.0.11",
+    "typescript": "^5.0.3"
+  }
+}
